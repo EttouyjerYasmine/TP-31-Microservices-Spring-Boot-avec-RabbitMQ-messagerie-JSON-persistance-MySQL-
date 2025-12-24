@@ -1,6 +1,6 @@
-# 📨 Mini-projet : Spring Boot + RabbitMQ + MySQL
+#  Mini-projet : Spring Boot + RabbitMQ + MySQL
 
-## 📖 Description
+## Description
 Ce projet implémente une architecture **Producer/Consumer** avec **Spring Boot**, **RabbitMQ** et **MySQL**.  
 Il est composé de deux applications distinctes :
 - **Producer** : expose une API REST pour publier des messages JSON vers RabbitMQ.
@@ -8,7 +8,7 @@ Il est composé de deux applications distinctes :
 
 ---
 
-## 🏗️ Architecture
+##  Architecture
 
 <img width="806" height="459" alt="13-TP31" src="https://github.com/user-attachments/assets/35f762fb-c952-486f-bbde-1c99d98e3330" />
 
@@ -38,7 +38,7 @@ Il est composé de deux applications distinctes :
 
 ---
 
-## ⚙️ Prérequis
+##  Prérequis
 
 - **Java 17** ou supérieur
 - **Maven 3.6+**
@@ -48,7 +48,7 @@ Il est composé de deux applications distinctes :
 
 ---
 
-## 🚀 Installation
+##  Installation
 
 ### 1. Cloner le projet
 ```bash
