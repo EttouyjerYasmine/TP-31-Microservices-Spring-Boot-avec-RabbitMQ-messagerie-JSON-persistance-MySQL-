@@ -9,6 +9,10 @@ Il est composé de deux applications distinctes :
 ---
 
 ## 🏗️ Architecture
+
+<img width="806" height="459" alt="13-TP31" src="https://github.com/user-attachments/assets/35f762fb-c952-486f-bbde-1c99d98e3330" />
+
+
 <img width="947" height="499" alt="1-TP31" src="https://github.com/user-attachments/assets/5078982f-d2fd-407d-82d2-3e0dc899874a" />
 
 <img width="958" height="451" alt="2-TP31" src="https://github.com/user-attachments/assets/b869710a-2778-4d5e-9c58-cfbc72bb3035" />
@@ -23,6 +27,14 @@ Il est composé de deux applications distinctes :
 
 <img width="941" height="503" alt="7-TP31" src="https://github.com/user-attachments/assets/6685143d-5ead-407f-a37c-7ca01c2256a1" />
 
+<img width="953" height="468" alt="8-TP31" src="https://github.com/user-attachments/assets/274c7452-0a52-4bfe-a89c-a3a672920a0d" />
+
+<img width="949" height="476" alt="9-TP31" src="https://github.com/user-attachments/assets/491059f0-2171-4d33-87d3-04d76dfe4a22" />
+
+<img width="954" height="478" alt="10-TP31" src="https://github.com/user-attachments/assets/a5633cce-c6fb-43fa-8ff0-7eeb7b947ee2" />
+
+
+<img width="896" height="506" alt="12-TP31" src="https://github.com/user-attachments/assets/efd88e9b-1074-44ac-8cbe-e3c976b70bde" />
 
 ---
 
